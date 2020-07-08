@@ -20,3 +20,4 @@ test_pneumonia = os.path.join(test, 'PNEUMONIA')
 print('Numer of Training Images')
 print('normal case    :', len(os.listdir(train_normal)))
 print('pneumonia case :', len(os.listdir(train_pneumonia)))
+
